@@ -1,4 +1,4 @@
-📊 ## E-Commerce Data Analysis Project
+📊**E-Commerce Data Analysis Project**
 
 ## Project Overview
 This comprehensive project analyzes a large-scale e-commerce dataset containing over 541,000 transactions and fine-tunes the LLaMA-2 7B language model to generate meaningful insights from transaction data. The workflow demonstrates a complete data science pipeline from raw data processing to AI model deployment, featuring:
