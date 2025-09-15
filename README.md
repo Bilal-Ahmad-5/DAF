@@ -75,7 +75,7 @@ Each section is annotated with Markdown cells describing intent and key findings
 
 ```bash
 # clone the repository
-git clone https://github.com/your-org/DAF.git
+git clone githttps://github.com/Bilal-Ahmad-5/DAF.git
 cd DAF
 
 # create virtual environment (recommended)
@@ -102,7 +102,7 @@ jupyter lab
 # or
 jupyter notebook
 ```
-2. Open `DAF (1).ipynb` from the file browser.
+2. Open `DAF.ipynb` from the file browser.
 3. Run cells sequentially (use `Kernel -> Restart & Run All` to reproduce results from top to bottom).
 
 **Google Colab**: Upload the notebook to Colab or open directly via GitHub. Make sure to upload any required data files or mount Google Drive for large datasets.
